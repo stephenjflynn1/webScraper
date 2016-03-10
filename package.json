@@ -1,0 +1,10 @@
+{
+  "name": "iLoveScraping",
+  "version": "0.0.1",
+  "description": "Scraping a website",
+  "author": "iLoveCoding",
+  "dependencies": {
+    "cheerio": "*",
+    "request": "^2.69.0"
+  }
+}
